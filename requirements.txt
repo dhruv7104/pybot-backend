@@ -4,7 +4,3 @@ fuzzywuzzy
 python-Levenshtein
 transformers
 torch
-tkinter
-random
-threading
-serpapi
